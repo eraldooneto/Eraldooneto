@@ -1,10 +1,11 @@
 ### Hey there! I'm Eraldo Neto 💪🏻
 
-- 🌱 I’m currently learning Full Stack Development 
-- 🧑🏻‍💻 I’m looking to work in a big company 
+- 🌱 I’m currently learning Full Stack Development: The most used technologies, as HTML, CSS, JavaScript, React, Node etc. 
+- 📖 Resources: At the moment, I'm studyng with Codecademy, Radmap.sh and RocketSeat. 
+- 🧑🏻‍💻 I’m looking to work in a big company here on Brazil or for a foreign country
 - 📫 How to reach me: jesn@ic.ufal.br
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a Full Stack Musician 
+- ⚡ Fun fact: I'm a Full Stack Musician - I play guitar and classical acoustic, piano, keyboards, drums, ukulele, bass. 
 
 <div align="center">
   <a href="https://github.com/eraldooneto">
