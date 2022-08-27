@@ -1,6 +1,6 @@
 ### Hey there! I'm Eraldo Neto 💪🏻
 
-- 🌱 I’m currently learning FBackend Development: The most used technologies, as HTML, CSS, JavaScript, Node.Js, Express, npm etc. 
+- 🌱 I’m currently learning Backend Development: The most used technologies, as HTML, CSS, JavaScript, Node.Js, Express, npm etc. 
 - 📖 Resources: At the moment, I'm studyng with Codecademy, Radmap.sh and RocketSeat. 
 - 🧑🏻‍💻 I’m looking to work in a big company here on Brazil or for a foreign country
 - 📫 How to reach me: jesn@ic.ufal.br
