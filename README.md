@@ -1,6 +1,6 @@
 ### Hey there! I'm Eraldo Neto 💪🏻
 
-  - 🧑🏻‍🎓 BSc. in Computer Scientist specialized in backend development/software engineering
+  - 🧑🏻‍🎓 BSc. in Computer Science and specialized in backend development/software engineering
   - 🧑🏻‍💻 I’m looking to work in a big company here on Brazil or for a foreign country, personally or remote. 
   - 📫 How to reach me: jesn@ic.ufal.br or eraldoosantos@gmail.com
 
