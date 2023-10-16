@@ -1,9 +1,8 @@
 ### Hey there! I'm Eraldo Neto 💪🏻
 
-- 🧑🏻‍🎓 Computer Scientist specialized in backend development 
-- 🧑🏻‍💻 I’m looking to work in a big company here on Brazil or for a foreign country, personally or remote. 
-- 📫 How to reach me: jesn@ic.ufal.br or eraldoosantos@gmail.com
-- ⚡ Fun fact: I'm a Full Stack Musician - I play guitar and classical acoustic, piano, keyboards, drums, ukulele, bass. 
+  - 🧑🏻‍🎓 BSc. in Computer Scientist specialized in backend development/software engineering
+  - 🧑🏻‍💻 I’m looking to work in a big company here on Brazil or for a foreign country, personally or remote. 
+  - 📫 How to reach me: jesn@ic.ufal.br or eraldoosantos@gmail.com
 
 <div align="center">
   <a href="https://github.com/eraldooneto">
@@ -27,8 +26,5 @@
   <a href="https://instagram.com/eraldooneto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:eraldoosantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eraldo-neto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-
-  ![Snake animation](https://github.com/eraldooneto/eraldooneto/blob/output/github-contribution-grid-snake.svg)
  
 </div>
