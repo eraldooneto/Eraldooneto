@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/eraldooneto/Eraldooneto/main/profile-summary-card-output/chartreuse_dark/4-productive-time.svg)
-```
-
-    
